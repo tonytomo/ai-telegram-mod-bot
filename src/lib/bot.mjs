@@ -1,4 +1,3 @@
-import { bot, getParam } from "./url.mjs";
 import { helloText, statusText, helpText } from "./instructions.mjs";
 import { sendMessage, deleteMessage, getMember } from "./telegram.mjs";
 import { aiAnswer } from "./ai.mjs";
